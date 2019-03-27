@@ -1,0 +1,38 @@
+#topheader
+{   width: 800px;
+   
+    font-size: 60px;
+    background-color: dodgerblue;
+    color: rgb(40,35,98);
+}
+#topheader a{
+    text-decoration: none;
+}
+#cart
+{
+    border-collapse:collapse;
+}
+#cart td,#cart th
+{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#main_section
+{
+ float:right;
+ width:660px;
+ margin:30px;
+}
+#cart td
+{width: 15px;}
+.ex1
+{
+    background-color: blue;
+}
+#dialogue_box
+{   margin-top:5px;
+    padding:5px;
+    background-color: dodgerblue;
+    font-size:20px;
+    margin-right: 15px;
+}
